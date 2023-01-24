@@ -1,5 +1,5 @@
 package com.promineotech.jeep.entity;
 
-public enum Fueltype {
+public enum FuelType {
   GASOLINE, DIESEL, HYBRID
 }
